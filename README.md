@@ -14,7 +14,7 @@ List of Open Source Computer Science materials and cources related to Machine Le
 7. [DEEP LEARNING НА ПАЛЬЦАХ](dlcourse.ai)
 8. [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/user/Zan560/playlists) **NEW!**
 9. [The Mathematical Engineering of Deep Learning](deeplearningmath.org)
-
+-------------------------------------------------
 ### MIRT course materials
 Материалы по ML от ФПМИ (МФТИ)
 
@@ -25,6 +25,15 @@ List of Open Source Computer Science materials and cources related to Machine Le
 - [Машинное обучение Семинары 2020](https://www.youtube.com/watch?v=7uRXcMSkgpY&list=PL4_hYwCyhAvYPOWn6e44RKxEfRWEsPA1z)
 - [Прикладное машинное обучение Лекции 2020](https://www.youtube.com/watch?v=vO-TijhBT8E&list=PL4_hYwCyhAvY7k32D65q3xJVo8X8dc3Ye)
 - [Прикладное МЛ Семинары 2020](https://www.youtube.com/watch?v=XlEHTf93Y8w&list=PL4_hYwCyhAvZLp0CTIDVQr9FtDR_7DaUr)
+-------------------------------------------------
+### Other lists and resources
+- List of tutorials, projects, libraries, videos, papers, books and anything related to the incredible PyTorch: [The incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch)
+- [Open Source Society University](https://github.com/ossu/computer-science). Path to a free self-taught education in Computer Science!
+- A list of resources in different fields of Computer Science (in multiple languages). [open and view...](https://github.com/the-akira/Computer-Science-Resources)
+- [Ancient Secrets of computer vision](https://www.youtube.com/watch?v=8jXIAWg_yHU&list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p) and [related post on Habr](https://habr.com/ru/post/461365/)
+-------------------------------------------------
+### Youtube channels
+-------------------------------------------------
 
 ## Motivation
 We are **Softweird Engineering** team. Who knows why we do that.
