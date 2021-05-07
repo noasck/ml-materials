@@ -5,15 +5,15 @@ List of Open Source Computer Science materials and cources related to Machine Le
 ## ML\DS\Math courses
 ### Free Cources and book's pages
 
-1. [Open Machine Learning Course](mlcourse.ai)
-2. [Fast AI. Making neural nets uncool again.](fast.ai)
-3. [Full Stack Deep Learning](fullstackdeeplearning.com)
-4. [Neural Networks and Deep Learning Book](neuralnetworksanddeeplearning.com)
-5. [Open Data Science Community](ods.ai)
-6. [Stanford ML Course](cs231n.stanford.edu)
-7. [DEEP LEARNING НА ПАЛЬЦАХ](dlcourse.ai)
+1. [Open Machine Learning Course](https://mlcourse.ai)
+2. [Fast AI. Making neural nets uncool again.](https://fast.ai)
+3. [Full Stack Deep Learning](https://fullstackdeeplearning.com)
+4. [Neural Networks and Deep Learning Book](http://neuralnetworksanddeeplearning.com)
+5. [Open Data Science Community](https://ods.ai)
+6. [Stanford ML Course](http://cs231n.stanford.edu)
+7. [DEEP LEARNING НА ПАЛЬЦАХ](https://dlcourse.ai)
 8. [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/user/Zan560/playlists) **NEW!**
-9. [The Mathematical Engineering of Deep Learning](deeplearningmath.org)
+9. [The Mathematical Engineering of Deep Learning](https://deeplearningmath.org)
 -------------------------------------------------
 ### MIRT course materials
 Материалы по ML от ФПМИ (МФТИ)
