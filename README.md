@@ -1,9 +1,9 @@
-# ML Cources and Materials
+# ML Courses and Materials
 
 List of Open Source Computer Science materials and cources related to Machine Learning and Data Science.
 
 ## ML\DS\Math courses
-### Free Cources and book's pages
+### Free Courses and book's pages
 
 1. [Open Machine Learning Course](https://mlcourse.ai)
 2. [Fast AI. Making neural nets uncool again.](https://fast.ai)
