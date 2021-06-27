@@ -14,6 +14,7 @@ List of Open Source Computer Science materials and cources related to Machine Le
 7. [DEEP LEARNING НА ПАЛЬЦАХ](https://dlcourse.ai)
 8. [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/user/Zan560/playlists) **NEW!**
 9. [The Mathematical Engineering of Deep Learning](https://deeplearningmath.org)
+10. [Machine Learning ВШЭ Е.Соколов](https://github.com/esokolov/ml-course-hse)
 -------------------------------------------------
 ### MIRT course materials
 Материалы по ML от ФПМИ (МФТИ)
